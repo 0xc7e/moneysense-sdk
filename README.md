@@ -1,8 +1,6 @@
 # MoneySense - [aimbot | visuals | chams | misc | skinchanger]
 my main hack for csgo + (0x10)e;
 
-Creator: http://vk.com/skeetidb
-
 Fonts: https://yadi.sk/d/mpF1vRhFn1eLwQ
 
 ![title](https://sun9-9.userapi.com/c852320/v852320927/1f0024/wUtRxi5kAyg.jpg)
